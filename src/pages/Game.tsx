@@ -170,7 +170,7 @@ function Game() {
   return (
     <div className="w-96 max-w-sm h-screen flex items-center flex-col">
 
-      <a className="text-2xl text-secondary antialiased underline text-center mt-6" target={"_blank"} href="https://github.com/erickctra">https://github.com/erickctra</a>
+
 
       {/* dealer hand */}
       <div id="dealerHand" className="flex justify-center mt-14 relative scale-[0.8] flex-wrap w-[300px]">
